@@ -1,0 +1,14 @@
+Subject: 30 volunteers   
+	1-30
+
+Activity: 6 activities 
+	"LAYING"
+	"SITTING"
+	"STANDING"
+	"WALKING"
+	"WALKING DOWNSTAIRS"
+	"WALKING UPSTAIRS"
+
+Mean   :average of mean for each activity and each subject
+
+Standard Deviation : average of standard deviation for each activity and each subject
